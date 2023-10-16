@@ -256,7 +256,7 @@ h1 {
   left: 50%;
   transform: translateX(-50%);
   top: 0;
-  background: url("../../images/main-bg.jpg") no-repeat;
+  background: url("../images/main-bg.jpg") no-repeat;
   background-size: cover;
 }
 
@@ -626,7 +626,7 @@ h1 {
   height: 6.16em;
   left: -5em;
   top: 0;
-  background: url("../../images/logo2.png") no-repeat;
+  background: url("../images/logo2.png") no-repeat;
   background-size: contain;
   background-repeat: no-repeat;
 }
@@ -715,7 +715,7 @@ h1 {
   top: 50%;
   transform: translateY(-50%);
   left: -1.5em;
-  background: url("../../images/search.svg") no-repeat;
+  background: url("../images/search.svg") no-repeat;
   z-index: 2;
 }
 
@@ -880,7 +880,7 @@ h1 {
 }
 
 .match .container::before {
-  background: url("./../../images/match-bg.svg") no-repeat;
+  background: url("./../images/match-bg.svg") no-repeat;
   background-size: contain;
   left: 50%;
   transform: translateX(-32.5%);
@@ -961,7 +961,7 @@ h1 {
   left: 50%;
   top: 50%;
   transform: translateX(-50%) translateY(-50%);
-  background: url("../../images/score.svg") no-repeat;
+  background: url("../images/score.svg") no-repeat;
   z-index: 2;
 }
 
@@ -1021,7 +1021,7 @@ h1 {
   left: 0;
   top: 50%;
   transform: translateY(-50%);
-  background: url("../../images/cup.svg") no-repeat;
+  background: url("../images/cup.svg") no-repeat;
   background-size: contain;
 }
 
